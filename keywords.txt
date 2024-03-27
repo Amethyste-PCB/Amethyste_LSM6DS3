@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For Amethyste_LSM6DS3
+#######################################
+# Class
+#######################################
+
+Amethyste_LSM6DS3	KEYWORD1
+LSM6DS3 KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+
+toggleAccel	KEYWORD2
+toggleGyro	KEYWORD2
+readAccel	KEYWORD2
+readGyro	KEYWORD2
+readTemperature	KEYWORD2
+readAccelRaw	KEYWORD2
+readGyroRaw	KEYWORD2
+readTemperatureRaw	KEYWORD2
+setAccelScale	KEYWORD2
+setGyroScale	KEYWORD2
+setAccelDataRate	KEYWORD2
+setGyroDataRate	KEYWORD2
+toggleTapDetection	KEYWORD2
+readTapDetection	KEYWORD2
+setTapSensibility	KEYWORD2
+toggleFreeFallDetection	KEYWORD2
+readFreeFallDetection	KEYWORD2
+setFreeFallParameters	KEYWORD2
+togglePedometer	KEYWORD2
+readPedometer	KEYWORD2
+setPedometerParameters	KEYWORD2
+toggleWristTilt	KEYWORD2
+readWristTilt	KEYWORD2
+setWristTiltParameters	KEYWORD2
+toggleInterruptLogic	KEYWORD2
+readRegister	KEYWORD2
+writeRegister	KEYWORD2
+readRegisters	KEYWORD2
+
+#######################################
+# Constants
+#######################################
